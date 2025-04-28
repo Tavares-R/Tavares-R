@@ -2,12 +2,11 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Aspirante a Engenheiro de Software, com foco em Back-end  
-🏢 Analista Tributário na Receita Federal do Brasil
 
 ---
 
 ## Sobre mim  
-Atualmente, curso Análise e Desenvolvimento de Sistemas e atuo como Analista Tributário na Receita Federal do Brasil. Meu objetivo é me especializar em engenharia de software, com ênfase em desenvolvimento back-end e arquitetura de software.  
+Atualmente, curso Análise e Desenvolvimento de Sistemas. Meu objetivo é me especializar em engenharia de software, com ênfase em desenvolvimento back-end e arquitetura de software.  
 
 📌 **Áreas de interesse**:  
 - **Linguagens**: Python, JavaScript  
